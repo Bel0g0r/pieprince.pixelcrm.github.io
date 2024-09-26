@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/pieprince.pixelcrm.github.io/static/css/main.684e8ba8.css",
-    "main.js": "/pieprince.pixelcrm.github.io/static/js/main.01042944.js",
-    "static/js/491.196e7859.js": "/pieprince.pixelcrm.github.io/static/js/491.196e7859.js",
+    "main.js": "/pieprince.pixelcrm.github.io/static/js/main.73b9d5ca.js",
+    "static/js/786.83807719.js": "/pieprince.pixelcrm.github.io/static/js/786.83807719.js",
     "static/media/MaterialCommunityIcons.ttf": "/pieprince.pixelcrm.github.io/static/media/MaterialCommunityIcons.5d42b4e60858731e7b65.ttf",
     "static/media/Ionicons.ttf": "/pieprince.pixelcrm.github.io/static/media/Ionicons.3517aeaa34b2f8cd8eef.ttf",
     "static/media/MaterialIcons.ttf": "/pieprince.pixelcrm.github.io/static/media/MaterialIcons.120b4c7bbd155bd0a04d.ttf",
@@ -30,12 +30,12 @@
     "manifest.json": "/pieprince.pixelcrm.github.io/manifest.json",
     "serve.json": "/pieprince.pixelcrm.github.io/serve.json",
     "main.684e8ba8.css.map": "/pieprince.pixelcrm.github.io/static/css/main.684e8ba8.css.map",
-    "main.01042944.js.map": "/pieprince.pixelcrm.github.io/static/js/main.01042944.js.map",
-    "491.196e7859.js.map": "/pieprince.pixelcrm.github.io/static/js/491.196e7859.js.map"
+    "main.73b9d5ca.js.map": "/pieprince.pixelcrm.github.io/static/js/main.73b9d5ca.js.map",
+    "786.83807719.js.map": "/pieprince.pixelcrm.github.io/static/js/786.83807719.js.map"
   },
   "entrypoints": [
-    "static/js/491.196e7859.js",
+    "static/js/786.83807719.js",
     "static/css/main.684e8ba8.css",
-    "static/js/main.01042944.js"
+    "static/js/main.73b9d5ca.js"
   ]
 }
